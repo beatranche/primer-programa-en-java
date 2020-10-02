@@ -3,6 +3,7 @@ public class Prueba{
 		System.out.println("Beatriz Tranche Robles");
 		System.out.println("Leon 1979");		
 		System.out.println("Leon Windows 10");
+		System.out.println("Beatriz Tranche Robles");
 	}
 	
 }
